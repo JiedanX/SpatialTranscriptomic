@@ -3,6 +3,8 @@
 **Deploying Multi-modal Learning in the Analysis of Single-cell Omics to Facilitate Perturbation Modelling**  
 *Master’s Thesis Project by Jiedan Xiao*
 
+![Title of the Project](https://github.com/JiedanX/SpatialTranscriptomic/blob/main/master%20thesis%20title.jpeg?raw=true)
+
 ## Overview
 
 This repository contains the code and workflows developed as part of my master’s thesis, which investigates the application of machine learning (ML) and deep learning (DL) techniques in spatial multi-omics. The goal of this project is to explore clustering cell states post-perturbation modelling using spatial transcriptomics data.
